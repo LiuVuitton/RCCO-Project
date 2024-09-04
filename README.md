@@ -6,7 +6,8 @@ The project involved the robust control of a non trivially coupled MIMO linear s
 ## Notes on report quality
 I would like to preface the report with the fact that at the time, both during the midterm and the final, I had numerous other committments. As a result, there are actually many parts that could be improved, such as the part where I analyse the uncertainties and give them a physical motivation, and many more. 
 <br>
-At the end I got a final grade of 5.5 / 6. This score does not include an additional 0.25 points that could have been obtained by doing 7 of the 9 weekly homeworks, but because I was busy I didn't do them.
+Final grade: 5.5 / 6. 
+<br>This score does not include an additional 0.25 points that could have been obtained by doing 7 of the 9 weekly homeworks, but because I was busy I didn't do them.
 
 ## Project requirements
 - Description of the system and why it is important.
