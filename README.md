@@ -1,7 +1,6 @@
 # Robust Control and Convex Optimization Project
 ## Project overview
-This was my final report submission for the project graded course "Robust Control and Convex Optimization" at ETH Zurich. 
-
+This was my final report submission for the project graded course "Robust Control and Convex Optimization" at ETH Zurich. <br>
 The project involved the robust control of a non trivially coupled MIMO linear system. Furthermore, the system had to be physically motivated
 ## Notes on report quality
 I would like to preface the report with the fact that at the time, both during the midterm and the final, I had numerous other committments. As a result, there are actually many parts that could be improved, such as the part where I analyse the uncertainties and give them a physical motivation, and many more. 
