@@ -18,7 +18,6 @@ All the plots in the report were generated using MATLAB and a Simulink model of 
 - Quantification and certification of robust performance for SSV controller.
 - Comparison of SSV and nominal control policies with respect to closed loop trajectory simulations and robust performance metrics.
 - Comparison of performance on experimental system operation.
-- 
 
 ## Source code and discussion
 To uphold academic integrity, I will not be sharing the MATLAB and Simulink code for this project.
