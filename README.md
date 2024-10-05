@@ -1,4 +1,4 @@
-# Robust Control and Convex Optimization Project
+# Robust control and analysis of an inverted pendulum on a cart
 ## Overview
 This was my final report submission for the project graded course "Robust Control and Convex Optimization" at ETH Zurich.
 <br>
